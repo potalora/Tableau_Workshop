@@ -35,9 +35,12 @@
 
 ### Bar Graph
 
-- Dimensions and Measures
 - Click _Go to Worksheet_
+
+- Dimensions and Measures
+
 - Drag **Issue** to Columns
+
 - Drag **Number of Records** to Rows
 
 
