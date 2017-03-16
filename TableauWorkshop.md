@@ -122,7 +122,8 @@
 
 ## Final notes
 
-- Tableau is a very powerful visualization tool
+- Tableau is a powerful visualization tool
+
   - Very customizable
 
 - Visualizations can be interactive and can be shared in many ways
