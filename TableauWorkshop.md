@@ -43,6 +43,11 @@
 
 - Drag **Number of Records** to Rows
 
+- Drag **State** to the Color button in the Marks section
+
+- This is a bar graph of number of issues by Issue and State
+
+
 
 
 
