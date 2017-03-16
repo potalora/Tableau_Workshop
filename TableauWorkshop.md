@@ -47,6 +47,27 @@
 
 - This is a bar graph of number of issues by **Issue** and **State**
 
+### Line Graph
+
+- Create new sheet
+
+- Add **Date Received** to Columns
+
+- Add **Number of Records** to Rows
+
+- Click _Show Me_
+
+  - Click on the continuous line graph
+
+- Click on the **Plus Sign** on the **Date Received** field in Columns
+  — This will aggregate the data in different periods of time
+
+#### Useful Calculations
+
+##### Running Sum
+
+- 
+
 
 
 
