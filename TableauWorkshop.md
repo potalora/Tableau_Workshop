@@ -2,8 +2,10 @@
 
 ## Introduction
 
-- This workshop is designed to introduce you to Tableau, a business intelligence and data visualization tool.
+- This workshop is designed to introduce you to Tableau, a business intelligence and data visualization tool
+
 - While there are many data visualization tools and packages for scripting languages, Tableau is particularly useful for exploring data and doing simple modeling
+
   - Tableau does not have a scripting language but has an extremely easy-to-use GUI
 
 ## Important Links
@@ -64,11 +66,71 @@
 
 #### Useful Calculations
 
+##### Analysis
+
+- Click on _Analytics_
+
+- Drag **Trend Line** and select **Linear**
+
 ##### Running Sum
 
-- 
+- Click the arrow on the field **SUM(Number of Records)** in Columns
 
+  - Go down to _Quick Table Calculation_ and select _Running Total_
 
+- This is a running sum
+
+  - Fields can be overlaid in Tableau; you can have a running sum on top of other lines
+
+### Geographic Visualizations
+
+- Tableau supports many levels of geographic visualizations
+
+- You can incorporate custom shape maps, or better yet, custom coordinates
+
+- I recommend using FIPS codes for counties as Tableau does not always recognize county names
+
+- Create new sheet
+
+- Drag **State** into _Marks_ section
+
+- Drag **Number of Records** into the _Colors_ button in _Marks_ section
+
+- This will visualize the number of records reported by state
+
+  - You can change colors and scale as you see fit
+
+- Drag **Issue** into _Filters_ section
+
+  - Select **Loan modification,collection,foreclosure**
+
+- This limits the data visualized
+
+### Sharing
+
+- Click _Worksheet_ and select _Export_
+
+- Any option will export the sheet as an image
+
+## Dashboards
+
+- Click _New Dashboard_
+
+- Drag your sheets onto the dashboard
+
+- Dashboards can be shared as images or published to Tableau Public
+
+## Final notes
+
+- Tableau is a very powerful visualization tool
+  - Very customizable
+
+- Visualizations can be interactive and can be shared in many ways
+
+- Tableau does have limitations
+  - No scripting language
+
+  - Closed source
 
 
 
