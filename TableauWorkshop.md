@@ -59,8 +59,8 @@
 
   - Click on the continuous line graph
 
-- Click on the **Plus Sign** on the **Date Received** field in Columns
-  — This will aggregate the data in different periods of time
+- Click on the _Plus Sign_ on the **Date Received** field in Columns
+  - This will aggregate the data in different periods of time
 
 #### Useful Calculations
 
