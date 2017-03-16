@@ -1,0 +1,29 @@
+# Tableau Workshop
+
+## Introduction
+
+- This workshop is designed to introduce you to Tableau, a business intelligence and data visualization tool.
+- While there are many data visualization tools and packages for scripting languages, Tableau is particularly useful for exploring data and doing simple modeling
+  - Tableau does not have a scripting language but has an extremely easy-to-use GUI
+
+## Important Links
+
+**[Mortgage Complaint Data from CFPB](https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q)**: https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q
+
+**Free Tableau for Students**: https://www.tableau.com/academic/students#form
+
+**Free Tableau for Instructors**: https://www.tableau.com/academic/teaching
+
+**Tableau Public**: https://public.tableau.com/s/
+
+## Data Connections
+
+First thing that shows up when you open Tableau
+
+Tableau can connect to many types of data sources including Excel Spreadsheets, CSV files, text files, and various databases
+
+
+
+
+
+
