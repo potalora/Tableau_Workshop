@@ -8,7 +8,7 @@
 
 ## Important Links
 
-**[Mortgage Complaint Data from CFPB](https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q)**: https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q
+**Mortgage Complaint Data from CFPB**: https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q
 
 **Free Tableau for Students**: https://www.tableau.com/academic/students#form
 
@@ -18,9 +18,25 @@
 
 ## Data Connections
 
-First thing that shows up when you open Tableau
+- First thing that shows up when you open Tableau
 
-Tableau can connect to many types of data sources including Excel Spreadsheets, CSV files, text files, and various databases
+- Tableau can connect to many types of data sources including Excel Spreadsheets, CSV files, text files, and various databases
+
+- Download [Mortgage Complaint Data](https://query.data.world/s/13ozpoyqtxqbm1dv0pd2iwt7q)
+
+  - Save it to an accessible directory
+
+- Click _Text File_
+  - Select Mortgage Complaint Data
+
+- Click _Automatically Update_
+
+## Create Sheets
+
+### Bar Graph
+- 
+
+
 
 
 
