@@ -49,6 +49,18 @@
 
 - This is a bar graph of number of issues by **Issue** and **State**
 
+- Let's create a bar graph with the companies with most mortgage complaints
+
+  - Create sheet
+
+  - Drag **Company** to Columns
+
+  - Drag **Number of Records** to Rows
+
+  - Sort Company descending by Number of Records
+
+  - Filter **Company** above 1,000 complaints
+
 ### Line Graph
 
 - Create new sheet
@@ -106,11 +118,17 @@
 
 - This limits the data visualized
 
+- You can change colors and scales by clicking _Edit Colors…_ in the legend
+
+  - For this data you might want to reverse the scale
+
 ### Sharing
 
 - Click _Worksheet_ and select _Export_
 
 - Any option will export the sheet as an image
+
+- Tableau Public
 
 ## Dashboards
 
