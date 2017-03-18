@@ -147,6 +147,7 @@
 - Visualizations can be interactive and can be shared in many ways
 
 - Tableau does have limitations
+
   - No scripting language
 
   - Closed source
